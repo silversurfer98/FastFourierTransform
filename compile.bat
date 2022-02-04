@@ -1,0 +1,1 @@
+g++ Trignometry-101\Trig_funcs.h Trignometry-101\Trignometry_funcs.cpp FFT\fft.h FFT\fft.cpp dataPreparation\*.h dataPreparation\*.cpp main.cpp -o out
