@@ -26,5 +26,7 @@ void fft_driver(data* x, unsigned int n, unsigned int display_number_precision)
 		std::cout << "\n\n ********* Exiting the module, Bye xD *********\n\n";
 		return;
 	}
+	// this sinle line defines the heap de allocation
+	delete[] x;
 
 }
