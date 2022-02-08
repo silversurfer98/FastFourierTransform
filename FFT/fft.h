@@ -1,5 +1,5 @@
 #pragma once
-#include "..\Trignometry-101\Trig_funcs.h"
+#include <Trig_funcs.h>
 //#include<iostream>
 struct complexNumbers
 {

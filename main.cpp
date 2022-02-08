@@ -1,7 +1,7 @@
 // input file names are in include.h file rename that to modify.
 // ********* i dont know what to say ********** will arise if u give no data to work with
 
-#include "dataPreparation/include.h"
+#include <driver.h>
 
 int main()
 {   

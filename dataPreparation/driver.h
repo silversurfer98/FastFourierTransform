@@ -3,7 +3,7 @@
 #include<fstream>
 #include <iomanip>
 #include<string>
-#include "..\FFT\fft.h"
+#include <fft.h>
 
 typedef complexNumbers data;
 
